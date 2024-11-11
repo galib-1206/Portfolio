@@ -1,6 +1,6 @@
 ### Assalamu-Alaikum, I am [Shaed Shad Ullah Galib](http://www.linkedin.com/in/shaed-galib/) ✨
 
-Hi, I’m Shaed Shad Ullah Galib,a final-year Sostware Engineering student at Dhaka University and an Associate Software Engineer at Brain Station 23. I specialize in DevOps, coding, and cloud technologies, with expertise in Docker, Kubernetes, Python, and Java. Passionate about solving complex problems, I aim to stay at the forefront of tech innovation and contribute to impactful projects.
+Hi, I’m Shaed Shad Ullah Galib,a final-year Software Engineering student at Dhaka University and an Associate Software Engineer at Brain Station 23. I specialize in DevOps, coding, and cloud technologies, with expertise in Docker, Kubernetes, Python, and Java. Passionate about solving complex problems, I aim to stay at the forefront of tech innovation and contribute to impactful projects.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [bsse1206@iit.du.ac.bd](mailto:bsse1206@iit.du.ac.bd)
@@ -31,5 +31,4 @@ src="https://img.shields.io/github/followers/galib-1206?logo=github&style=for-th
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=galib-1206&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galib-1206&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+<a href="https://github.com/galib-1206" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galib-1206&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
