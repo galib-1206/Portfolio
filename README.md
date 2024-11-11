@@ -1,6 +1,6 @@
 ### Assalamu-Alaikum, I am [Shaed Shad Ullah Galib](http://www.linkedin.com/in/shaed-galib/) ✨
 
-Hi, I’m Shaed Shad Ullah Galib,a final-year Software Engineering student at Dhaka University and an Associate Software Engineer at Brain Station 23. I specialize in DevOps, coding, and cloud technologies, with expertise in Docker, Kubernetes, Python, and Java. Passionate about solving complex problems, I aim to stay at the forefront of tech innovation and contribute to impactful projects.
+Hi, I’m Shaed Shad Ullah Galib, a final-year Software Engineering student at Dhaka University and an Associate Software Engineer at Brain Station 23. I specialize in DevOps, coding, and cloud technologies, with expertise in Docker, Kubernetes, Python, and Java. Passionate about solving complex problems, I aim to stay at the forefront of tech innovation and contribute to impactful projects.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * ✉️  You can contact me at [bsse1206@iit.du.ac.bd](mailto:bsse1206@iit.du.ac.bd)
